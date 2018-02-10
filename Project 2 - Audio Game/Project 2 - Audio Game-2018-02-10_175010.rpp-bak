@@ -1,0 +1,957 @@
+<REAPER_PROJECT 0.1 "5.70/x64" 1518303010
+  RIPPLE 0
+  GROUPOVERRIDE 1 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 181.85271759397392
+  ZOOM 2.52015774335593 0 0
+  VZOOMEX 7
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio Files" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {6C84FE42-596A-429F-ABD6-887CA09F8D1B}
+    NAME BGM
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.0540707441244 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C84FE42-596A-429F-ABD6-887CA09F8D1B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.93 0 0 1
+      PT 6.10473784 0.5 0
+      PT 53.21894991 0.64 0
+      PT 54.51171792 1 0
+      PT 60.0418922 1 0
+      PT 64.85386203 0.41 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 183.71865857232123
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 5.555208 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E694DB65-D31F-45CB-90BB-E1EEDA9951A8}
+      IID 1
+      NAME MapleStory_Music_-_Horn_Tail_Battle[Mp3Converter.net].mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5650B638-D217-4632-878A-8A1BE009347F}
+      <SOURCE MP3
+        FILE "Assets\MapleStory_Music_-_Horn_Tail_Battle[Mp3Converter.net].mp3" 1
+      >
+    >
+  >
+  <TRACK {0F506EB9-DEB4-4E18-A598-2786852E5D1E}
+    NAME "Intro Narration"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.4059241760314 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 114 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0F506EB9-DEB4-4E18-A598-2786852E5D1E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.81746031746032
+      SNAPOFFS 0
+      LENGTH 48.04787359846323
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0DDB4AEF-D8EF-4A93-AAD7-0355FEA1BF3E}
+      IID 2
+      NAME "02-Intro Narration-180210_1727.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DE3817B-73B9-441E-A3F6-3C820ECEC686}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1727.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.92569160997732
+      SNAPOFFS 0
+      LENGTH 3.73986394557823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C86502A9-28FF-4B37-B90F-01390AF85C97}
+      IID 4
+      NAME "02-Intro Narration-180210_1734.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F11AA06B-3D34-4A86-BB49-B6D7C44D1DCE}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1734.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.47909297052155
+      SNAPOFFS 0
+      LENGTH 8.87147392290249
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C8A508F-9AF7-4CD9-8D1C-E5D742BD94ED}
+      IID 5
+      NAME "02-Intro Narration-180210_1734-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2A8D957-63E5-4516-8CE3-947379C89D3C}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1734-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.73165532879818
+      SNAPOFFS 0
+      LENGTH 6.64235827664399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D3E1F08-8B93-484A-9756-963B7FC25988}
+      IID 11
+      NAME "02-Intro Narration-180210_1735.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74231079-55D5-40BE-8E04-DF5732045C19}
+      RECPASS 4
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1735.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.4274149659864
+      SNAPOFFS 0
+      LENGTH 13.14394557823129
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5894DBF8-917F-4E54-890E-E98738201DBE}
+      IID 13
+      NAME "02-Intro Narration-180210_1736.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A73AA8F3-0772-4AEA-8BE3-ADAC8E2BA4B5}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1736.wav"
+      >
+    >
+    <ITEM
+      POSITION 107.37156462585034
+      SNAPOFFS 0
+      LENGTH 5.55102040816327
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {69F508CF-4F26-4AC1-94EE-A7CE9CA57171}
+      IID 15
+      NAME "02-Intro Narration-180210_1737.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E9D06AE-9E77-4A9A-B7F0-929ED061445D}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1737.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.40160997732427
+      SNAPOFFS 0
+      LENGTH 6.64235827664399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51BB6BF1-6CB6-4CA6-B15D-92517BB4784E}
+      IID 17
+      NAME "02-Intro Narration-180210_1742.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {687F2818-EA6B-4DB0-84D6-909C4FC1BF42}
+      RECPASS 7
+      <SOURCE WAVE
+        FILE "Audio Files\02-Intro Narration-180210_1742.wav"
+      >
+    >
+  >
+  <TRACK {A5DF84E5-AEEB-4664-B0CA-46282F6FB31F}
+    NAME "Enemy Loud"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.99354619307878 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5DF84E5-AEEB-4664-B0CA-46282F6FB31F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 60.6164557667193
+      SNAPOFFS 0
+      LENGTH 6.44353741496606
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D5A200B3-2FF8-49B2-90D9-B8EA9392072B}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16C6E248-2E9E-4480-BE8A-5785934AC6BD}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.47730227945985
+      SNAPOFFS 0
+      LENGTH 6.44353741496602
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1EB640D3-46FA-45B2-8EB6-35B28965F8A2}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FFAB50F-15BA-490E-9C1A-FCC6B7D07BA0}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 131.93295551568735
+      SNAPOFFS 0
+      LENGTH 6.44353741496602
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F431111-1D18-4C10-8827-A003AC3105B6}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1ED4024B-F724-4185-9DE5-4C6AB972E53B}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 146.02835674595553
+      SNAPOFFS 0
+      LENGTH 3.27063828198203
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86F3E907-5648-4E43-9368-861DFD7F9494}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2D03ACF-0070-4121-A68E-FF28C92EBFC6}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 174.21915920660831
+      SNAPOFFS 0
+      LENGTH 6.44353741496599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98735F75-DD08-4361-83BE-4CBD76F83B7D}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88C93DBD-D563-450F-99AF-77683C60B47F}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+  >
+  <TRACK {FC4CC68E-8136-435F-9797-F5C21AB90EA9}
+    NAME "Enemy Soft"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.0980521955554 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC4CC68E-8136-435F-9797-F5C21AB90EA9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 77.49426039370869
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A75E199-21D3-413A-97C3-6A2B4B4442FE}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21B079B7-7ECD-4D36-AB76-529C0AC398AF}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.78426662983838
+      SNAPOFFS 0
+      LENGTH 6.44353741496614
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.805377 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {482EFF7A-B880-49B5-9FC2-7EC71E1BB4BE}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5077AADD-3FCA-438D-B60B-BABD3BF5D4E4}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.42242712197242
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.805377 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2968D279-8880-4A41-B7B8-B6DEBFCBF117}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C414B357-AB05-42FE-A518-9E3D2F779B7B}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 141.51782835228369
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.805377 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D058F2D7-0637-4FC9-91D9-FAA0FA5E53D9}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F741D66-9E6B-4F4B-A26A-9CB1C8D01FB5}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.4197194033768
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.805377 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {877B8B45-1866-4C6C-AD84-3FC66E2FB798}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {738AC2C4-0532-4F81-9F7A-77ACD1DD4A4D}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 159.05787989555392
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.805377 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65000978-DC8E-456D-A286-A1873A4EF440}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93D13EFF-AC89-4316-A3C3-BFCD849B1EB6}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+    <ITEM
+      POSITION 168.86290673911572
+      SNAPOFFS 0
+      LENGTH 6.44353741496616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.805377 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {77E8095F-BF50-42C3-9516-8DDFA58EC9A9}
+      IID 3
+      NAME 384369__calebmelcher__monster-growl.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46C77D0F-E993-4254-B3D7-35CBBB77B2B3}
+      <SOURCE WAVE
+        FILE "Assets\384369__calebmelcher__monster-growl.wav"
+      >
+    >
+  >
+  <TRACK {8B9A15C9-58F9-4B51-AA38-C76DBE5EEA3F}
+    NAME "Character Death Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.06046072135896 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B9A15C9-58F9-4B51-AA38-C76DBE5EEA3F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 104.71420913259499
+      SNAPOFFS 0
+      LENGTH 2.70371882086168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4F49BE5A-B4AB-456E-83EA-BDC84E1612DE}
+      IID 14
+      NAME 415079__harrietniamh__video-game-death-sound-effect.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C57FDA4-B64A-4983-B8B4-752E7CA917BB}
+      <SOURCE WAVE
+        FILE "Assets\415079__harrietniamh__video-game-death-sound-effect.wav"
+      >
+    >
+    <ITEM
+      POSITION 136.72539193392731
+      SNAPOFFS 0
+      LENGTH 2.70371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B021064E-8EB4-4DE3-B9D6-EF6BFC489477}
+      IID 14
+      NAME 415079__harrietniamh__video-game-death-sound-effect.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CC1A6E8-CD8C-4B19-AF25-83BB5BD209C3}
+      <SOURCE WAVE
+        FILE "Assets\415079__harrietniamh__video-game-death-sound-effect.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.69475394347683
+      SNAPOFFS 0
+      LENGTH 2.70371882086164
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C1F1EA1-D021-4435-958F-2A007A8ACC3D}
+      IID 14
+      NAME 415079__harrietniamh__video-game-death-sound-effect.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D02FB9A3-672E-428D-BBE5-B49A288E9E1E}
+      <SOURCE WAVE
+        FILE "Assets\415079__harrietniamh__video-game-death-sound-effect.wav"
+      >
+    >
+  >
+  <TRACK {9C617DA0-784B-4F3F-8B34-E0E202F2D693}
+    NAME "Character Win Sound"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.19086543178953 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9C617DA0-784B-4F3F-8B34-E0E202F2D693}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 112.93360241461215
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FA0203E3-CD67-41B0-B736-830926683E80}
+      IID 16
+      NAME 320887__rhodesmas__win-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8009D851-F9E4-4D18-A086-6EB73E7F7E81}
+      <SOURCE WAVE
+        FILE "Assets\320887__rhodesmas__win-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 150.12313990306575
+      SNAPOFFS 0
+      LENGTH 1.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A49B398-E575-449A-B8AD-8F602F6E2179}
+      IID 16
+      NAME 320887__rhodesmas__win-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C3E7A98-46DE-4D12-ACBB-806A67A66415}
+      <SOURCE WAVE
+        FILE "Assets\320887__rhodesmas__win-04.wav"
+      >
+    >
+  >
+  <TRACK {88AEB673-6B71-4CA6-919F-8B6D4ED9E2FF}
+    NAME "Sword Swinging"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {88AEB673-6B71-4CA6-919F-8B6D4ED9E2FF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 128.69537315069934
+      SNAPOFFS 0
+      LENGTH 1.08015873015927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6346BEF-4A20-402F-B994-E601FEC5EC22}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999995 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4890D5B1-AC52-4C35-B076-B28D3F9EC763}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+    <ITEM
+      POSITION 149.2217314458685
+      SNAPOFFS 0
+      LENGTH 1.08015873015927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7DB842CE-3C80-4053-B9BD-9FBBA9CC3136}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999995 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A48E635-4481-4A01-A949-9E6472030137}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+    <ITEM
+      POSITION 156.42492969182786
+      SNAPOFFS 0
+      LENGTH 1.08015873015927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8468EFD0-AB42-4B7D-9FC5-7E441773D175}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999995 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC75B8E1-4520-4611-A53B-06D020C2C42F}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+    <ITEM
+      POSITION 165.40248534444254
+      SNAPOFFS 0
+      LENGTH 1.08015873015927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {877B7BC0-360C-42E8-91AE-45F82B052F93}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999995 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF76224E-8E8A-4CCF-8610-5034F65D1F00}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.36358229781035
+      SNAPOFFS 0
+      LENGTH 1.08015873015927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4268956F-05FC-40D0-8723-D96D681AD361}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999995 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38BA82CE-3E67-4CEA-970A-0AA8AF9CB1AD}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+    <ITEM
+      POSITION 177.91227490995209
+      SNAPOFFS 0
+      LENGTH 1.08015873015938
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3CAF8303-D5F0-43CC-BD1D-A0C0986AB8B0}
+      IID 24
+      NAME Sword.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9999999999994 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD2F7DBE-DF0E-4E49-89C9-8B91A172A012}
+      <SOURCE WAVE
+        FILE "Assets\Sword.wav"
+      >
+    >
+  >
+>
